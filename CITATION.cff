@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the article and the archived release."
+title: "Heterogeneous multi-literature data-driven modelling of coagulation defluoridation"
+abstract: >-
+  Data, analysis code and result tables for a study that compiles 1,011 coagulation-defluoridation
+  records from 27 literature-derived groups (22 independent publications) and evaluates random-split
+  performance, source-isolated generalization, applicability boundaries and model interpretation.
+authors:
+  - family-names: Zhang
+    given-names: Ruiyang
+  - family-names: Tao
+    given-names: Hao
+  - family-names: Yu
+    given-names: Xinyi
+  - family-names: Tian
+    given-names: Yuheng
+  - family-names: Yin
+    given-names: Yajie
+  - family-names: Huang
+    given-names: Yangbo
+  - family-names: Xu
+    given-names: Haiming
+  - family-names: Li
+    given-names: Dongya
+  - family-names: Guan
+    given-names: Zeyu
+    email: zyguan@wtu.edu.cn
+version: 1.0.0
+date-released: 2026-10-19
+license: MIT
+repository-code: "https://github.com/[USER]/[REPO]"
+doi: "10.5281/zenodo.[XXXXXXX]"
+keywords:
+  - fluoride removal
+  - coagulation
+  - machine learning
+  - cross-source validation
+  - applicability domain
+  - environmental modelling
