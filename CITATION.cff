@@ -25,11 +25,11 @@ authors:
   - family-names: Guan
     given-names: Zeyu
     email: zyguan@wtu.edu.cn
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-10-19
 license: MIT
-repository-code: "https://github.com/[USER]/[REPO]"
-doi: "10.5281/zenodo.[XXXXXXX]"
+repository-code: "https://github.com/a1070446431-lang/fluoride-coagulation-ml"
+doi: "10.5281/zenodo.23463855"
 keywords:
   - fluoride removal
   - coagulation

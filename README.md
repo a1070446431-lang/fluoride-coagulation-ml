@@ -69,8 +69,11 @@ listed above can shift the third decimal of the reported metrics.
 
 If you use these data or code, please cite the article above and the archived release:
 
-> Zhang, R., et al. (2026). Fluoride coagulation–defluoridation modelling workflow (v1.0.0).
-> Zenodo. https://doi.org/10.5281/zenodo.[XXXXXXX]
+> Zhang, R., Tao, H., Yu, X., Tian, Y., Yin, Y., Huang, Y., Xu, H., Li, D., Guan, Z. (2026).
+> Heterogeneous multi-literature data-driven modelling of coagulation defluoridation (v1.0.1).
+> Zenodo. https://doi.org/10.5281/zenodo.23463855
+>
+> Repository: https://github.com/a1070446431-lang/fluoride-coagulation-ml
 
 ## Contact
 
